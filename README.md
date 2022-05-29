@@ -14,7 +14,7 @@
   This project is the creation of the back end for an e-commerce site. This application used Express.js API and Sequelize to interact with a MySQL database. This application displays creation of database using mySQL with models and associations.
   
   ## Installation 
-  The following are required installations for this project: npm install mysql2
+  The following are required installations for this project: npm install mysql2/ npm install sequelize/ npm install dotenv
 
   ## Usage 
   This application will allow users to view, add, edit, and delete categories, products, and tags.

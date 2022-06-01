@@ -32,7 +32,7 @@
   ## Questions
   Should there be any comments and/or inquiries, please feel free to contact me at misty.duhart@gmail.com. Also, you can search for my repo on GitHub by entering mduhart82 or you can view my projects at https://github.com/mduhart82.
 
-#Live Demos of:
+# Live Demos of:
 
 ### Start of Application
 https://user-images.githubusercontent.com/98304659/171518926-5684df19-a63d-46cf-9d2d-c5eaeb769b66.mp4

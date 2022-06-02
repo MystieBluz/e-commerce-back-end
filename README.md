@@ -46,5 +46,8 @@ https://user-images.githubusercontent.com/98304659/171523278-ffe56aff-8960-4147-
 ### Insomnia Products_POST | PUT | DELETE
 https://user-images.githubusercontent.com/98304659/171528390-4e9d9e8c-e15d-4462-9b6a-2a6224915b28.mp4
 
+### Insomnia Tags_POST | PUT | DELETE
+https://user-images.githubusercontent.com/98304659/171530015-f4ce6bcd-0ed8-451e-8792-b6b998ab70ad.mp4
+
 
 

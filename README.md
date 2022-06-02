@@ -37,7 +37,11 @@
 ### Start of Application
 https://user-images.githubusercontent.com/98304659/171518926-5684df19-a63d-46cf-9d2d-c5eaeb769b66.mp4
 
-### Insomnia GET Route
+### Insomnia GET Routes
 https://user-images.githubusercontent.com/98304659/171520845-19b90105-4e0e-4e0c-8500-eae06436d42d.mp4
+
+### Insomnia Category_POST | PUT | DELETE
+https://user-images.githubusercontent.com/98304659/171523278-ffe56aff-8960-4147-baa4-f5e59b4c9a92.mp4
+
 
 
